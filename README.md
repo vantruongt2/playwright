@@ -1,6 +1,7 @@
 ## Getting started
 **Prerequisites**
-0. Node
+
+0. Node 18+
 1. VS Code
 2. Install dependencies
 ```
